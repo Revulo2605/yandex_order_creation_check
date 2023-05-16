@@ -1,5 +1,5 @@
 # Вставить сюда актуальный адрес сервера
-URL_SERVER = "https://d62208f3-113a-48d0-95ad-d24035a575ea.serverhub.praktikum-services.ru"
+URL_SERVER = "https://2c76d32d-0cb1-47b6-bff7-df74cc4c07e3.serverhub.praktikum-services.ru"
 
 # Адрес запроса на создание заказа
 ORDER_CREATE = "/api/v1/orders"
